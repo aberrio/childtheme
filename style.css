@@ -1,0 +1,14 @@
+
+/*
+ Theme Name:   Your Child Theme
+ theme Name: wp-bootstrap
+ Theme URI: http://320press.com/wpbs
+ Description: A simple responsive theme based on the Bootstrap framework. Includes multiple page templates, two different sidebars and a theme options panel.
+ Version: 3.0
+ Author:       GreatSchools
+ Author URI:   http://yoursite.com
+ Template:     wordpress-bootstrap-master 
+ Version:      1.0.0
+*/
+
+@import url("../wordpress-bootstrap-master/style.css");
